@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Qml/Main.qml</file>
+        <file>res/Img/copy.svg</file>
+        <file>res/Img/bin.svg</file>
+        <file>res/Img/edit.svg</file>
+        <file>res/Img/eye.svg</file>
+        <file>res/Img/disable-eye.svg</file>
+        <file>res/Img/greenBin.svg</file>
+        <file>res/Img/greenCopy.svg</file>
+        <file>res/Img/greenEdit.svg</file>
+        <file>res/Img/settings.svg</file>
+        <file>res/Img/vault.svg</file>
+        <file>res/Img/down-arrow.svg</file>
+        <file>res/Img/pro.jpg</file>
+        <file>res/Img/addButton.svg</file>
+        <file>res/Img/delete.svg</file>
+        <file>res/Img/close.svg</file>
+        <file>res/Img/minimize.svg</file>
+        <file>res/Qml/Controls/QButton.qml</file>
+        <file>res/Qml/Controls/QImgButton.qml</file>
+        <file>res/Qml/Controls/QLabel.qml</file>
+        <file>res/Qml/Controls/QTextInput.qml</file>
+        <file>res/Qml/Controls/QFooter.qml</file>
+        <file>res/Qml/Controls/TopPanel.qml</file>
+        <file>res/Qml/Controls/QHeader.qml</file>
+        <file>res/Qml/Pages/VaultPage.qml</file>
+        <file>res/Qml/Popups/DeleteCredentialsPopup.qml</file>
+        <file>res/Qml/Popups/ManageVault.qml</file>
+        <file>res/Qml/Popups/VaultCredentials.qml</file>
+        <file>res/Qml/Popups/VaultLogin.qml</file>
+    </qresource>
+</RCC>
